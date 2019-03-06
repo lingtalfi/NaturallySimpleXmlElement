@@ -1,7 +1,7 @@
 <?php
 
 
-namespace NaturallySimpleXmlElement;
+namespace Ling\NaturallySimpleXmlElement;
 
 /**
  * http://php.net/manual/en/simplexmlelement.addchild.php#104458
