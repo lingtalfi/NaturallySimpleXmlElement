@@ -40,6 +40,10 @@ NaturallySimpleXmlElement just adds the following methods to the SimpleXMLElemen
 History Log
 ------------------
 
+- 1.0.1 -- 2020-12-04
+
+    - Add lpi-deps.byml file
+
 - 1.0.0 -- 2018-06-17
 
     - initial commit
